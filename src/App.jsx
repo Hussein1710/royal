@@ -16,8 +16,8 @@ const renderApp = () => {
       element: <LandingPage />,
     },
     {
-      path: "/about-us",
-      element: <AboutUsPage />,
+      path: "",
+      // element: <AboutUsPage />,
     }
  ]);
 

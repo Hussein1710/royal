@@ -6,7 +6,7 @@ import { IoCloseSharp } from "react-icons/io5";
 const Navbar = () => {
   const Links = [
     { name: "Services", link: "/" },
-    { name: "Industries", link: "/" },
+    { name: "Committe", link: "/" },
     { name: "Clients", link: "/" },
     { name: "About us", link: "/about-us" },
     { name: "Insights", link: "/" },
@@ -15,8 +15,8 @@ const Navbar = () => {
   return (
     <section className="shadow w-full">
       <div className="md:flex justify-between items-center py-4 md:px-8 px-4">
-        <div className="bg-white text-3xl font-bold">
-          <h1>HORIZON</h1>
+        <div className="bg-white text-2xl font-bold">
+          <h1>ROYAL COUNCIL</h1>
         </div>
         <div
           onClick={() => setOpen(!open)}
@@ -39,9 +39,6 @@ const Navbar = () => {
               </Link>
             </li>
           ))}
-          <button className="px-6 py-2 bg-black text-green-500 rounded-md">
-            Estimate project
-          </button>
         </ul>
       </div>
     </section>

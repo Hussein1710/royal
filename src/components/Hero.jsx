@@ -1,5 +1,5 @@
 import React from 'react'
-import backImg from "../assets/developer.jpg";
+import backImg from "../assets/Arabs.png";
 const Hero = () => {
     const divStyle = {
         backgroundImage: `url(${backImg})`,
@@ -15,9 +15,9 @@ const Hero = () => {
     <div>
           <div style={divStyle}>
         <div className="flex flex-col m-2 md:text-5xl text-left items-start justify-center gap-4 font-bold font-sans w-full md:w-1/2">
-          <p className='text-white text-left text-4xl font-bold'>Achieve your business goals with a leading <span className='text-green-600'>software development agency</span></p>
-          <span className="text-slate-200 mt-10 text-left text-2xl font-bold">
-          Grow your business, save time, and create beautiful custom software that delivers outstanding results
+          <p className='text-white text-left text-4xl font-bold'>Welcome To Dubai Royal Council <span className='text-green-600 text-center'>We Appreciate you here</span></p>
+          <span className="text-slate-200 text-left text-2xl font-bold">
+نحن نحب دبي
           </span>
         </div>
       </div>

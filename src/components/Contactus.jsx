@@ -27,18 +27,30 @@ const Contactus = () => {
     <div className="">
       <div>
         <h1 className="font-bold text-3xl p-4 mt-6 md:mt-14">
-          Contact Horizon Tech Innovations
+          Contact Royal Council UAE
         </h1>
       </div>
       <div className="block md:flex justify-between mt-2">
         <div className="w-full md:w-[60%]">
           <p className="font-semibold text-xl mt-6 my-10 p-2 leading-10 m-2">
-            Thank you for considering reaching out to us at Horizon Tech Innovations, your
-            trusted source for software development insights. We are
-            committed to excellence and sustainability, and we value your
-            feedback and inquiries. After contacting us, you can expect a prompt
-            and knowledgeable response from our experienced team. Together, let's work towards a
-            greater future and sustainable tech solutions.
+            We welcome your inquiries and are here to assist you.
+
+Whether you are seeking information about our initiatives, partnerships, or events, the Royal Council UAE is committed to providing timely and respectful responses to all communications.
+
+<p>Get in Touch</p>
+
+<p>📍 Head Office:</p>
+<p>The Royal Council UAE</p>
+<p>Abu Dhabi, United Arab Emirates</p>
+
+<p>📞 Phone: +971 50 702 6602</p>
+<p>📧 Email: info@royalcounciluae.com, ambassador@royalcounciluae.com</p>
+<p>🌐 Website: www.royalcounciluae.com</p>
+
+<p>Office Hours:</p>
+<p>Sunday – Thursday | 9:00 AM – 5:00 PM </p>
+<p>Closed on Fridays and Public Holidays</p>
+<p>You can also reach us through our social media channels for the latest updates and announcements.</p>
           </p>
         </div>
         <div className="max-w-md mx-auto mt-4 p-4 w-full md:w-[40%]">
