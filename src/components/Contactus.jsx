@@ -40,8 +40,8 @@ Whether you are seeking information about our initiatives, partnerships, or even
 <p>Get in Touch</p>
 
 <p>📍 Head Office:</p>
-<p>The Royal Council UAE</p>
-<p>Abu Dhabi, United Arab Emirates</p>
+<p>1/2, 27 Street, Zaabeel 1</p>
+<p>Dubai, Royal Royal Palace</p>
 
 <p>📞 Phone: +971 50 702 6602</p>
 <p>📧 Email: info@royalcounciluae.com, ambassador@royalcounciluae.com</p>
