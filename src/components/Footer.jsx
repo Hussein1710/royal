@@ -1,6 +1,6 @@
 import React from "react";
 import Facebook from "../assets/Facebook.png"
-import Linkedin from "../assets/Linked.png"
+import dubai from "../assets/dubai.jpeg"
 import Twitter from "../assets/Twitter.jpg"
 
 const Footer = () => {
@@ -10,8 +10,8 @@ const Footer = () => {
           <h1>ROYAL COUNCIL UAE</h1>
         </div>
       <div className="flex items-center w-14">
+        <img src={dubai} alt="dubai-icon" />
         <img src={Facebook} alt="facebook-icon" />
-        {/* <img src={Linkedin} alt="linkedin-icon" /> */}
         <img src={Twitter} alt="twitter-icon" />
       </div>
     </div>
